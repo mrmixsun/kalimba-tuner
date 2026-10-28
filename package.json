@@ -1,0 +1,1 @@
+{"name":"kalimba-tuner","private":true,"type":"module","scripts":{"test":"node tests/pitch.test.mjs"}}
